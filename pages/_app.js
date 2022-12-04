@@ -9,7 +9,7 @@ const MyApp = ({ Component, pageProps }) => {
     <>
       <Head>
         <meta charSet="utf-8"/>
-        <link rel="icon" size="32x32" href="./airbnb-logo.png"/>
+        <link rel="icon" size="32x32" href="./logo.png"/>
         <title>🏡AirBnB Clone🏡</title>
         <meta name="Jayzeen" content="AirBnB Clone" />
       </Head>
